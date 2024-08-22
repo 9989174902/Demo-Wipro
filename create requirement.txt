@@ -1,0 +1,7 @@
+Flipcart Scenario
+login
+search
+select
+add to cart
+make payment
+logoff
